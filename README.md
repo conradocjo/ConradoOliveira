@@ -1,4 +1,6 @@
-## Prazer, Sou Conrado.
+## Olá, Sou Conrado.
+
+Sou programdor e entusiasta por tecnologia. Aqui estão alguns dos meus projetos que fiz nos momentos vagos.
 
  <div>
   <a href="https://github.com/conradocjo">
@@ -13,6 +15,7 @@
     <img align="center" alt="Conrado-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br>
 
 
 <div> 
