@@ -1,6 +1,6 @@
 ## Olá, Sou Conrado.
 
-Sou programdor e entusiasta por tecnologia. Aqui estão alguns dos meus projetos que fiz nos momentos vagos.
+Um amante de tecnologia.
 
  <div>
   <a href="https://github.com/conradocjo">
