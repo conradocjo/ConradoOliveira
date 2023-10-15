@@ -1,6 +1,10 @@
 ## Olá, Sou Conrado.
 
-Um amante de tecnologia.
+Entusiasta por tecnologia no geral, seja projetos opensource, distribuições linux ou novidades no âmbito científico, também sou idealizador do projeto Eadem Idea, que visa ajudar programadores iniciantes com projetos pré-configurados, criados para serem evoluídos e melhorados:
+
+<div>
+ <a href = "https://github.com/eademidea"><img style="width: 20%;" src="https://github.com/conradocjo/conradocjo/assets/29169349/64d06bf3-0e47-4600-8e05-2fe58de390b2" target="_blank"></a>
+</div>
 
  <div>
   <a href="https://github.com/conradocjo">
