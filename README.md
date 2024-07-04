@@ -33,7 +33,7 @@ Minhas redes e meio de contato:
 
 
 <a href = "mailto:conradocjo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[[https://www.linkedin.com/in/conrado-j-oliveira-9a392999](https://www.linkedin.com/in/conrado-jardim-oliveira-9a392999/)](https://www.linkedin.com/in/conrado-jardim-oliveira-9a392999/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/conrado-jardim-oliveira-9a392999/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 
